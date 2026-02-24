@@ -1,0 +1,26 @@
+[
+    {
+        "service_name": "Hostel Party",
+        "description": "Professional DJ setup with latest sound systems.",
+        "price": "1500",
+        "date": "2025-10-06"
+    },
+    {
+        "service_name": "Party DJ",
+        "description": "The private get-together, college event, reunion, or weekend bash, our professional DJs spin the best tracks to keep everyone dancing all night long.",
+        "price": "4500",
+        "date": "2025-10-06"
+    },
+    {
+        "service_name": "Ceremony DJ",
+        "description": "From weddings and engagements to receptions and cultural events, our expert DJs create the perfect musical atmosphere for your big day.",
+        "price": "6000",
+        "date": "2025-10-06"
+    },
+    {
+        "service_name": "Birthday party",
+        "description": "We bring the perfect mix of music, lights, and energy to turn your special day into a night full of fun, laughter, and dance.",
+        "price": "3000",
+        "date": "2025-10-06"
+    }
+]
