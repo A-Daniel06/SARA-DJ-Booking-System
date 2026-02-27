@@ -13,7 +13,6 @@
             /* plain white background */
             background-color: #ffffff;
         }
-
 /* Header */
 header { 
     background: linear-gradient(90deg, #2c3e50, #34495e); 
