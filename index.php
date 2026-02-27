@@ -49,7 +49,7 @@ header h1 { margin:0; font-size:38px; letter-spacing:1px; }
                 letter-spacing: 1px;
             }
             .why-desc {
-                color: #333;
+                color: #334;
                 font-size: 1.35rem;
                 margin: 0 auto 32px auto;
                 max-width: 700px;
