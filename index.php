@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="responsive.css">
     <title>Home - SARA DJ Booking</title>
     <style>
         body {
@@ -394,6 +396,18 @@ footer a {
 }
 footer a:hover {
     text-decoration:underline;
+}
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 
     </style>
